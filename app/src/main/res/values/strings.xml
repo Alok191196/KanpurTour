@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KanpurTour</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Setting</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Explore</string>
+    <string name="backdrop_title">Kanpur Tour</string>
+    <string name="backdrop_subtitle">Top 20 visiting places in Kanpur</string>
+
+    <string name="error_title" />
+    <string name="error_message">There is an error.Please Try Again</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="network_unavailable">Network is not Available!</string>
+
+    <string-array name="name">
+        <item>"one"</item>
+        <item>"two"</item>
+        <item>"three"</item>
+        <item>"four"</item>
+        <item>"five"</item>
+        <item>"six"</item>
+        <item>"seven"</item>
+        <item>"eight"</item>
+        <item>"nine"</item>
+    </string-array>
+
+</resources>
