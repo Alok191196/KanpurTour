@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/splash_background</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">#fff</item>
+        <!--<item name="android:actionBarStyle">@style/MyActionBar</item>-->
+
+        <!-- Support library compatibility -->
+        <!--<item name="actionBarStyle">@style/MyActionBar</item>-->
+
+    </style>
+
+    <!--<style name="MyActionBar"-->
+        <!--parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--<item name="android:textColor">#fff</item>-->
+<!---->
+         <!--Support library compatibility -->
+        <!--<item name="textColor">#fff</item>-->
+    <!--</style>-->
+
+</resources>
